@@ -1,0 +1,18 @@
+.carrusel{
+    margin-bottom: 10px;
+}
+.pie{
+    background-color: rgb(51, 51, 51, 0.09);
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    align-items: center;
+}
+.pie a{
+    text-decoration: none;
+    color: rgb(101, 95, 160);
+}
+.pie a:hover{
+    color: cadetblue;
+}
