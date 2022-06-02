@@ -7,7 +7,8 @@
     display: flex;
     justify-content: space-around;
     margin-top: 10px;
-    align-items: center;
+    /* align-items: center; */
+    
 }
 .pie a{
     text-decoration: none;
@@ -18,4 +19,13 @@
 }
 .comic{
     text-align: center;
+}
+#mapa{
+    margin: 0 auto;
+}
+.vacio{
+    height: 600px;
+}
+.salto{
+    height: 400px;
 }
